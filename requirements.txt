@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scikit-survival>=0.23
+lifelines>=0.28
+matplotlib>=3.7
+requests>=2.31
+jupytext>=1.16
+ipykernel>=6.29

@@ -1,0 +1,16 @@
+# Data is downloaded by scripts, never committed
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
